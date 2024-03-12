@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="remove">
+    <file>minus.ico</file>
+  </qresource>
+  <qresource prefix="add">
+    <file>add.ico</file>
+  </qresource>
+  <qresource prefix="ice_cream">
+    <file>ice_cream.ico</file>
+  </qresource>
+</RCC>
